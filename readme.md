@@ -115,6 +115,7 @@
 - [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 - [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 - [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating :cow::poop: at [bullgit](https://bullg.it).
+- [Ben Newton] (https://github.com/bennewton999/ama) - Full Stack JavaScript Developer at [Razorfish](http://www.razorfish.com/), creator of [VitalWall](http://www.vitalwall.com).
 
 #### Ask these organizations anything!
 
